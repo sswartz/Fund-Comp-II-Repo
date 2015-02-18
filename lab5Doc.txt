@@ -1,0 +1,5 @@
+Stuart Swartz
+
+2.18.15
+
+This is proof that I created a GitHub account and committed a file to it. Lab 5 is about creating a Sodoku game. First we will created a templated Puzzle class so that the game can be played with numbers or characters. Then we must create a game that the user can play by entering a number and the cell that they want to enter the number into. This lab will be continued in lab 6 where we develop an algorithm for completing the puzzle using STL. 
